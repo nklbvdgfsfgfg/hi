@@ -1,1 +1,2 @@
-maymaymay
+while True: 
+  print('i love tanya popova')
